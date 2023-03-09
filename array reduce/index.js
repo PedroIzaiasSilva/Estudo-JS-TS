@@ -11,22 +11,6 @@ const total = numeros.reduce((acumulador, valor)=>{
 },0);
 // console.log(total);
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // Retorne a pessoa mais velha
 const pessoas = [
     {nome: 'Luiz', idade: 62 },
